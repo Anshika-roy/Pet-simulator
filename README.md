@@ -7,7 +7,7 @@ Choose your pet, interact with it using commands, and keep it happy and alive! �
 
 🚀 Features
 
-- 🐶 Choose your pet (Dog, Cat, more coming...)
+- 🐶 Choose your pet 
 - 🍖 Feed, 🎾 Play, 😴 Sleep interactions
 - 📊 Real-time pet stats (Hunger, Mood, Energy)
 - 💾 Save progress using LocalStorage
@@ -43,18 +43,6 @@ pet-game/
 
 ---
 
-⚙️ How to Run Locally
-
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-Then simply open:
-
-index.html
-
-in your browser 🌐
-
----
 
 🎮 Commands
 
@@ -68,7 +56,7 @@ sleep| Restores energy
 💡 Future Improvements
 
 - 🧬 AI-based pet behavior
-- 🦇 Custom pets (Vampire pet 👀)
+- 🦇 Custom pets 
 - 🎨 Animations & sound effects
 - 🌐 Deploy online (GitHub Pages)
 - 💬 Chat-based interaction system
